@@ -1,0 +1,6 @@
+numpy
+qiskit
+qiskit-aer
+matplotlib
+jupyter
+ipykernel>=6.29.0
