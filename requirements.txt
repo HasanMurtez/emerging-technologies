@@ -5,3 +5,4 @@ matplotlib
 jupyter
 ipykernel>=6.29.0
 pylatexenc
+pandas
